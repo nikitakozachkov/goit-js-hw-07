@@ -35,5 +35,3 @@ function onGalleryItemClick(event) {
 }
 
 galleryRef.insertAdjacentHTML("beforeend", galleryItemsRef);
-
-console.log(galleryItems);
